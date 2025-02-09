@@ -1,4 +1,3 @@
-pip install streamlit google-generativeai PyPDF2 load_dotenv json os
 import streamlit as st
 import google.generativeai as genai
 import os
